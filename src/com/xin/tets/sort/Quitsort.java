@@ -32,6 +32,7 @@ public class Quitsort {
 
 	}
 	
+	
 	public int quitSort(int[] arrs ,int left, int right){
 		int temp = arrs[left];
 		while(left<right){
