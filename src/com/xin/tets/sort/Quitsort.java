@@ -3,6 +3,7 @@ package com.xin.tets.sort;
 import java.util.Random;
 
 public class Quitsort {
+	
 	public static void main(String[]  args){
 		int lenght = 10000;
 		int[] arrs = new int[lenght];
